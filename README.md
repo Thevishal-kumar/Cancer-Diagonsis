@@ -2,28 +2,6 @@
 Personalized Cancer Diagnosis
 A machine learning project focused on building models for personalized cancer treatment prediction using genetic mutation and textual data. This repository contains modular Python scripts for preprocessing, feature engineering, training classifiers, and evaluating performance metrics.
 
-Project Structure:
-
-PERSONALISED-CANCER-DIAGNOSIS/
-│
-├── training/                       # Directory for training data or helper scripts
-│
-├── cancerKNN.py                   # K-Nearest Neighbors Classifier
-├── cancerLogisticReg.py          # Logistic Regression Classifier
-├── cancerMajorityClassifier.py   # Baseline Majority Classifier
-├── cancerNB_Model.py             # Naive Bayes Classifier with calibration
-├── cancerRandomForest.py         # Random Forest Classifier
-├── cancerRandomModel.py          # Random baseline model
-├── cancerStackingClassifier.py   # Stacking Classifier combining multiple models
-├── cancerSVM.py                  # Support Vector Machine Classifier
-│
-├── cancerUnivariateText.py       # Univariate analysis using text features
-├── cancerUnivariateGene.py       # Univariate analysis using gene features
-├── cancerUnivariateVariation.py  # Univariate analysis using variation features
-│
-
-
-
 
 Models Implemented
 | Model                  | File                          | Description                                    |
