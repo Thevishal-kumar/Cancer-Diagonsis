@@ -2,7 +2,8 @@
 Personalized Cancer Diagnosis
 A machine learning project focused on building models for personalized cancer treatment prediction using genetic mutation and textual data. This repository contains modular Python scripts for preprocessing, feature engineering, training classifiers, and evaluating performance metrics.
 
-Project Structure
+Project Structure:
+
 PERSONALISED-CANCER-DIAGNOSIS/
 │
 ├── training/                       # Directory for training data or helper scripts
@@ -20,6 +21,7 @@ PERSONALISED-CANCER-DIAGNOSIS/
 ├── cancerUnivariateGene.py       # Univariate analysis using gene features
 ├── cancerUnivariateVariation.py  # Univariate analysis using variation features
 │
+
 
 
 
@@ -43,13 +45,18 @@ Feature Engineering
 | cancerUnivariateGene.py        | Gene features         | One-hot or response encoding              |
 | cancerUnivariateVariation.py   | Variation features    | One-hot or response encoding              |
 
+
+
 Requirements:
 pip install -r requirements.txt
 
 Typical Libraries:
 numpy,pandas,scikit-learn,matplotlib,seaborn,nltk
 
+
+
 How to Run
+
 1. Clone the repository:
 git clone https://github.com/your-username/personalised-cancer-diagnosis.git
 cd personalised-cancer-diagnosis
@@ -62,6 +69,7 @@ python cancerLogisticReg.py
    Train the model
    Calibrate the classifier (if needed)
    Evaluate using Log Loss and Confusion Matrix
+
 
 Evaluation Metrics:
 Log Loss
