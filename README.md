@@ -36,7 +36,7 @@ numpy,pandas,scikit-learn,matplotlib,seaborn,nltk
 How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/personalised-cancer-diagnosis.git
+git clone https://github.com/Thevishal-kumar/Cancer-Diagonsis.git
 cd personalised-cancer-diagnosis
 
 2. Run individual model scripts:
