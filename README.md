@@ -25,6 +25,12 @@ Feature Engineering
 
 
 
+SCREENSHOTS:
+<img width="1870" height="818" alt="Screenshot 2025-09-05 145037" src="https://github.com/user-attachments/assets/2af24cf0-70f8-4164-8286-33390c9a336a" />
+<img width="1176" height="698" alt="Screenshot 2025-09-05 145142" src="https://github.com/user-attachments/assets/af912afa-59e2-47ab-a01a-7035678713e1" />
+<img width="1878" height="795" alt="Screenshot 2025-09-05 145045" src="https://github.com/user-attachments/assets/e47fbb14-8cda-4698-9dcd-07480da89ad3" />
+
+
 Requirements:
 pip install -r requirements.txt
 
